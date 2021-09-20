@@ -11,10 +11,10 @@
 </div>
 
 <div style="display: inline_block"><br>
- <img align="center" alt="Lookey-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
- <img align="center" alt="Lookey-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Lookey-Go" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+ <img align="center" alt="Lookey-Python" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="right" alt="Lookey-Tux" src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif">
- <img align="center" alt="Lookey-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+ <img align="center" alt="Lookey-Linux" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
 ##
