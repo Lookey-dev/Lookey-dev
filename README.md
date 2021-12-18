@@ -1,4 +1,4 @@
-## Olá meu nome é Lucas, mas pode me chamar de Lookey 👋
+## Hi my name is Lucas but you can call me Lookey 👋
 
 - 📘 I am currently learning Golang.
 - ⚡ My hobby is being Cyber Security studies!
