@@ -1,9 +1,8 @@
 ## Olá meu nome é Lucas, mas pode me chamar de Lookey 👋
 
-- 🔧 Atualmente estou Trabalhando com ...
-- 📘 Atualmente estou estudando Golang.
-- ⚡ Meu passa tempo está sendo estudos de Segurança da Informação!
-- 😄 Pronomes: Ele, dele
+- 📘 I am currently learning Golang.
+- ⚡ My hobby is being Information Security studies!
+- 😄 Pronouns: he, his
 
  <div>
   <a href="https://github.com/Lookey-dev">
