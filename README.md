@@ -1,7 +1,7 @@
 ## Olá meu nome é Lucas, mas pode me chamar de Lookey 👋
 
 - 📘 I am currently learning Golang.
-- ⚡ My hobby is being Information Security studies!
+- ⚡ My hobby is being Cyber Security studies!
 - 😄 Pronouns: he, his
 
  <div>
