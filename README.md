@@ -1,8 +1,10 @@
-## Hi my name is Lucas but you can call me Lookey 👋
+<img src=http://1.bp.blogspot.com/_foJnXF66vK4/Ruqp0pOe_mI/AAAAAAAAAJI/TMGU5mhyZf0/w1200-h630-p-k-no-nu/felix_socialist.gif />
 
-- 📘 I am currently learning Golang.
+## Hello, my name is Lucas but you can call me Lookey 👋
+
+- 📘 I am currently learning Golang & GNU/Linux.
 - ⚡ My hobby is being Cyber Security studies!
-- 😄 Pronouns: he, his
+- 😄 Pronouns: He / His
 
  <div>
   <a href="https://github.com/Lookey-dev">
