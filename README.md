@@ -3,8 +3,8 @@
 ## Hello, can you call me Lookey 👋
 
 - 📘 I am currently learning Golang & GNU/Linux.
-- 👾 Cyber Security Student.
-- 👽 Pronouns: He / His!
+- ☠️ Cyber Security Student.
+- 👻 Pronouns: He / His!
 
  <div>
   <a href="https://github.com/Lookey-dev">
