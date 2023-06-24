@@ -2,8 +2,7 @@
 
 ## Hello, you can call me Lookey 👋
 
-- ☠️ Cyber Security Student.
-- 👻 Pronouns: He / His!
+- Cyber Security Analyst
 
  <div>
   <a href="https://github.com/Lookey-dev">
@@ -11,8 +10,6 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img  align="left" alt="Lookey-Go" src=https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white /> 
-<img  align="left" alt="Lookey-Python" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white />
 <img  align="left" alt="Lookey-Shell" src=https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white />
 <img align="center" alt="Lookey-Tux" src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif">
 </div>
